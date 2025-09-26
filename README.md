@@ -12,3 +12,9 @@ Create a new environment
 '''
 conda create -p venv python ==3.7 -y
 '''
+
+# Boston House Price Prediction App
+
+This is a Flask web app that predicts Boston house prices based on input features.
+
+![Web App Screenshot](static/images/WebApp.png)
